@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-890-976H114V252H-890z"/>
+        <path fill="#F2F2F2" fill-rule="nonzero" stroke="#FF5000" d="M.5.5h33v33H.5z"/>
+        <text fill="#FF5000" font-family="ArialMT, Arial" font-size="12" letter-spacing="-.4">
+            <tspan x="5.174" y="26">TO</tspan> <tspan x="20.822" y="26">P</tspan>
+        </text>
+        <path fill="#FF5000" fill-rule="nonzero" d="M17.337 7.678l-4.112 4.112a.717.717 0 1 1-1.015-1.015l4.565-4.565a.716.716 0 0 1 .562-.208.716.716 0 0 1 .56.208l4.566 4.565a.717.717 0 0 1-1.015 1.015l-4.111-4.112z"/>
+    </g>
+</svg>
