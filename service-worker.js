@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3549c1fb60d761db8720a6cc10c98dfc.js"
+  "/precache-manifest.4123fc27d9c8cfd7be36c2694bc4e55d.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "fornt-scaffolding"});
+workbox.core.setCacheNameDetails({prefix: "pwa"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
